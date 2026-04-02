@@ -1,2 +1,3 @@
 Hello_memo_1
 I'm studing OpenSourceSoftware
+I'm try 3_way_merge

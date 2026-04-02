@@ -2,3 +2,5 @@ Hello_memo_1
 I'm studing OpenSourceSoftware
 
 3123131212231
+I'm try 3_way_merge
+feature_3way
